@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include probuying *.css
+recursive-include probuying *.csv
+recursive-include probuying *.html
+recursive-include probuying *.ico
+recursive-include probuying *.js
+recursive-include probuying *.json
+recursive-include probuying *.md
+recursive-include probuying *.png
+recursive-include probuying *.py
+recursive-include probuying *.svg
+recursive-include probuying *.txt
+recursive-exclude probuying *.pyc
