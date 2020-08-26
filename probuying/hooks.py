@@ -11,6 +11,36 @@ app_color = "blue"
 app_email = "aisha@gmail.com"
 app_license = "MIT"
 
+
+
+
+fixtures = ["Custom Field","Print Format",
+	{"dt": "Custom Field",
+		"filters": [
+			[
+	"name", "in", ["Sales Order-authorised_sign",
+	"Sales Order-company_seal_"
+				]
+			]
+]},
+	{"dt": "Print Format", 
+	"filters": [
+	[
+	"name","in", ["Mareeb Sales Order"]
+	]
+	]}
+
+	]
+
+
+
+
+
+
+
+
+
+
 # Includes in <head>
 # ------------------
 
