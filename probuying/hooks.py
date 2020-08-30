@@ -21,7 +21,10 @@ fixtures = ["Custom Field","Print Format",
 	"name", "in", ["Sales Order-authorised_sign",
 	"Sales Order-company_seal_",
 	"Sales Order-so_approved_by", 
-	"Purchase Order-po__approved_date"
+	"Purchase Order-po__approved_date",
+	"Sales Order-company_seal_", 
+	"Purchase Order-po__approved_date",
+        "Sales Order-so_approved_date"
 				]
 			]
 ]},
