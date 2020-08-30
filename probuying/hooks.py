@@ -19,7 +19,8 @@ fixtures = ["Custom Field","Print Format",
 		"filters": [
 			[
 	"name", "in", ["Sales Order-authorised_sign",
-	"Sales Order-company_seal_"
+	"Sales Order-company_seal_", 
+	"Purchase Order-po__approved_date"
 				]
 			]
 ]},
