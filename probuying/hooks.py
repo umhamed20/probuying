@@ -22,7 +22,6 @@ fixtures = ["Custom Field","Print Format",
 	"Sales Order-company_seal_",
 	"Sales Order-so_approved_by", 
 	"Purchase Order-po__approved_date",
-	"Sales Order-company_seal_", 
 	"Purchase Order-po__approved_date",
         "Sales Order-so_approved_date"
 				]
